@@ -1,0 +1,52 @@
+﻿ <?xml version="1.0" encoding="UTF-8"?>
+
+  <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+
+
+
+
+
+
+<url>
+    <loc>http://katrinaafterthestorm.com/index.html</loc>
+    <lastmod>2008-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+   </url> 
+
+<url>
+    <loc>http://katrinaafterthestorm.com/jacket.html</loc>
+    <lastmod>2008-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+   </url> 
+
+<url>
+    <loc>http://katrinaafterthestorm.com/purchase.html</loc>
+    <lastmod>2008-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+   </url> 
+
+<url>
+    <loc>http://katrinaafterthestorm.com/chapters.html</loc>
+    <lastmod>2008-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+   </url> 
+
+<url>
+    <loc>http://katrinaafterthestorm.com/about.html</loc>
+    <lastmod>2008-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+   </url> 
+
+
+
+
+
+
+ </urlset>
